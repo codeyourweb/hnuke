@@ -1,0 +1,11 @@
+theses lines are not valid hashs:
+07bf024a43c324dd2a4b8a8s0
+ef49780995d9bab25bcbzzz0bd206df4
+
+this is a good hash:
+2b14f9f3c758a2cf842a61aca6a3455d
+
+this is the same hash:
+2b14f9f3c758a2cf842a61aca6a3455d
+
+this is a 1e295a6c8ca911746165812c61527730 hash inside a text content
