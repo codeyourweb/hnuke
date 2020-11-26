@@ -1,5 +1,5 @@
 
-# Hash parser and VirusTotal analysis with both VT free and entreprise API  
+# Hashs parser and VirusTotal analysis with both VT free and entreprise API  
 
 ## History
 
@@ -74,13 +74,13 @@ An example of input file and associated results are available in the examples fo
 
 ## Installation
 
-Compiled executables are available for both Windows and Linux platform in the release section of this repository. You can alson use go get if you want to run the application from source code.
+Compiled executables are available for both Windows and Linux platform in the release section of this repository. You can also use go get github.com/codeyourweb/hnuke if you want to run the application from source code.
 
 ## Known bugs
 * PDF parsing (currently some hashs are not seen correctly) 
 * PDF can't be opened in parsing mode on some documents (don't really know why, i'm currently investigating on this)
 * HTML content: the webpages are converted to text before parsing, when there is a lot of nested div, theses hashs seems truncated and thus not recognized by hnuke
-
+* Need more errors/exceptions handling
 
 ## What's next?
 
